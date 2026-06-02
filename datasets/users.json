@@ -1,0 +1,26 @@
+{
+  "version": "2.4.1",
+  "generated_at": "2026-06-02T14:22:11Z",
+  "users": [
+    {
+      "id": "usr_1001",
+      "region": "eu-central",
+      "sync_token": "MFRGGZDF"
+    },
+    {
+      "id": "usr_1002",
+      "region": "eu-west",
+      "sync_token": "MZTWQ2LK"
+    },
+    {
+      "id": "usr_1003",
+      "region": "us-east",
+      "sync_token": "NNWG23TP"
+    },
+    {
+      "id": "usr_1004",
+      "region": "ap-south",
+      "sync_token": "OI======"
+    }
+  ]
+}
